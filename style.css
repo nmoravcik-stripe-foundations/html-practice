@@ -1,0 +1,14 @@
+.header-1 {
+    color: rgb(255, 0, 221);
+  }
+  
+  #paragraph-1 {
+    color: rgb(49, 217, 217);
+  }
+  
+  #paragraph-2 {
+    color: #28ac5c;
+  }
+  
+  /* We used 3 different ways to specify color:
+  the word "blue", rgb selectors and hex codes */
